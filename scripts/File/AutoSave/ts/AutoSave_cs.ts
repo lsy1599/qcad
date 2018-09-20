@@ -34,9 +34,24 @@
     </message>
     <message numerus="yes">
         <location line="+19"/>
+        <source>%n autosave backup file(s) for (an) untitled drawing(s) was/were found.
+Do you wish to recover it/them?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location line="+69"/>
+        <source>An autosave backup file for &quot;%1&quot; exists.
+Do you wish to recover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
         <source>%n &apos;autosave&apos; backup file(s) for (an) untitled drawing(s) was/were found.
 Do you wish to recover it/them?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Byly nalezeny záložní nepojmenované &apos;autosave&apos; soubory s výkresem %n.
 Přejete si je obnovit?</numerusform>
             <numerusform></numerusform>
@@ -44,7 +59,7 @@ Přejete si je obnovit?</numerusform>
         </translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-64"/>
         <source>Recover Files?</source>
         <translation>Obnovit soubory?</translation>
     </message>
@@ -59,14 +74,13 @@ Přejete si je obnovit?</numerusform>
         <translation>Obnovit soubor?</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>An &apos;autosave&apos; backup file for &apos;%1&apos; exists.
 Do you wish to recover it?</source>
-        <translation>Existuje záložní &apos;autosave&apos; soubor pro &apos;%1&apos;.
+        <translation type="vanished">Existuje záložní &apos;autosave&apos; soubor pro &apos;%1&apos;.
 Přejete si ho obnovit?</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+26"/>
         <location line="+11"/>
         <location line="+5"/>
         <source>Cannot rename file:</source>
@@ -75,17 +89,17 @@ Přejete si ho obnovit?</translation>
     <message>
         <location line="-13"/>
         <source>Moved autosave backup file to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunut automaticky ukládaný záložní soubor na:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Moved original file to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunut originální soubor na:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Cannot remove file:</source>
-        <translation type="unfinished">Nelze přesunout soubor:</translation>
+        <translation>Nelze odstranit soubor:</translation>
     </message>
     <message>
         <location filename="../PreferencesPage.ui" line="+17"/>

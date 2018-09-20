@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1" language="tr">
 <context>
     <name>Information</name>
     <message>
         <location filename="../Information.js" line="+285"/>
         <source>Information Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi Araçları</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show information tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Bilgi araçlarını göster</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+27"/>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bilgi</translation>
     </message>
     <message>
         <location filename="../Information.ui" line="+17"/>
         <source>Add measurement to drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizime ölçü ekle</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Text height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin yüksekliği:</translation>
     </message>
 </context>
 </TS>

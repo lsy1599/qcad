@@ -63,8 +63,12 @@
     </message>
     <message>
         <location line="+127"/>
+        <source>Editing block &quot;%1&quot;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Editing block &apos;%1&apos;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
-        <translation>ブロック&apos;%1&apos;を編集中。&lt;br&gt;終了するには&lt;i&gt;ブロック&gt;メイン図面に戻る&lt;/i&gt;を選択して下さい</translation>
+        <translation type="vanished">ブロック&apos;%1&apos;を編集中。&lt;br&gt;終了するには&lt;i&gt;ブロック&gt;メイン図面に戻る&lt;/i&gt;を選択して下さい</translation>
     </message>
 </context>
 <context>
@@ -610,22 +614,22 @@
     </message>
     <message>
         <location line="+2"/>
-        <source>2 Line Angular Dimensions</source>
+        <source>Angular Dimensions (2 Line)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>2 Line Angular Dimension</source>
+        <source>Angular Dimension (2 Line)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>3 Point Angular Dimensions</source>
+        <source>Angular Dimensions (3 Point)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>3 Point Angular Dimension</source>
+        <source>Angular Dimension (3 Point)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

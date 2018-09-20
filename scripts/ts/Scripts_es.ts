@@ -68,8 +68,12 @@
     </message>
     <message>
         <location line="+127"/>
+        <source>Editing block &quot;%1&quot;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
+        <translation>Editar bloque &quot;%1&quot;&lt;br&gt;Elija &lt;i&gt;Bloque &gt; Volver al dibujo principal&lt;/i&gt; cuando se hace</translation>
+    </message>
+    <message>
         <source>Editing block &apos;%1&apos;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
-        <translation>Editar bloque &apos;%1&apos;&lt;br&gt;Elija &lt;i&gt;Bloque &gt; Volver al dibujo principal&lt;/i&gt; cuando se hace</translation>
+        <translation type="vanished">Editar bloque &apos;%1&apos;&lt;br&gt;Elija &lt;i&gt;Bloque &gt; Volver al dibujo principal&lt;/i&gt; cuando se hace</translation>
     </message>
 </context>
 <context>
@@ -683,24 +687,40 @@ Editar un bloque basado en una referencia a bloque elegido</translatorcomment>
         <translation>Cotas angular</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>2 Line Angular Dimensions</source>
-        <translation>Cotas angulares de 2 líneas</translation>
+        <translation type="vanished">Cotas angulares de 2 líneas</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>2 Line Angular Dimension</source>
-        <translation>Cota angular de 2 líneas</translation>
+        <translation type="vanished">Cota angular de 2 líneas</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimensions</source>
+        <translation type="vanished">Cotas angulares de 3 puntos</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimension</source>
+        <translation type="vanished">Cota angular de 3 puntos</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>3 Point Angular Dimensions</source>
-        <translation>Cotas angulares de 3 puntos</translation>
+        <source>Angular Dimensions (2 Line)</source>
+        <translation>Cotas angulares (2 líneas)</translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>3 Point Angular Dimension</source>
-        <translation>Cota angular de 3 puntos</translation>
+        <source>Angular Dimension (2 Line)</source>
+        <translation>Cota angular (2 líneas)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Angular Dimensions (3 Point)</source>
+        <translation>Cotas angulares (3 puntos)</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Angular Dimension (3 Point)</source>
+        <translation>Cota angular (3 puntos)</translation>
     </message>
     <message>
         <location line="+2"/>

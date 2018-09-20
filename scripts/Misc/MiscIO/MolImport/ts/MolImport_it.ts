@@ -21,7 +21,7 @@
     <message>
         <location filename="../MolImportInit.js" line="+2"/>
         <source>Leetro MOL Import...</source>
-        <translation>Leetro MOL Importa...</translation>
+        <translation>Leetro MOL importazione...</translation>
     </message>
 </context>
 <context>
@@ -29,12 +29,12 @@
     <message>
         <location filename="../MolImporter.js" line="+161"/>
         <source>Importing Leetro MOL file...</source>
-        <translation>Importare Leetro MOL file...</translation>
+        <translation>Importazione di file Leetro MOL...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Interruzione</translation>
     </message>
 </context>
 </TS>

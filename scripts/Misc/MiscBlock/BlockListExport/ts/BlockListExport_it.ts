@@ -6,7 +6,7 @@
     <message>
         <location filename="../BlockListExport.js" line="+91"/>
         <source>Export Block List (CSV)</source>
-        <translation>Esportare l&apos;elenco di blocco (CSV)</translation>
+        <translation>&amp;Esportare l&apos;elenco di blocco</translation>
     </message>
     <message>
         <location line="+1"/>

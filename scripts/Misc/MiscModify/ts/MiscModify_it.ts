@@ -11,17 +11,16 @@
     <message>
         <location line="+10"/>
         <source>Misc Modification Tools</source>
-        <translation>Strumenti di Modifica Vari</translation>
+        <translation>Strumenti di modifica vari</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show misc modification tools</source>
-        <translation>Mostra strumenti di modifica</translation>
+        <translation type="vanished">Mostra strumenti di modifica vari</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+23"/>
         <source>&amp;Modify</source>
-        <translation>&amp;Modifica</translation>
+        <translation>&amp;Modificare</translation>
     </message>
 </context>
 </TS>

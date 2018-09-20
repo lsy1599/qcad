@@ -68,8 +68,12 @@
     </message>
     <message>
         <location line="+127"/>
+        <source>Editing block &quot;%1&quot;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
+        <translation>Modifica blocco &quot;%1&quot;&lt;br&gt;Scegliete &lt;i&gt;Blocco &gt; Torna al disegno principale&lt;/i&gt; quando fatto</translation>
+    </message>
+    <message>
         <source>Editing block &apos;%1&apos;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
-        <translation>Modifica blocco &apos;%1&apos;&lt;br&gt;Scegliete &lt;i&gt;Blocco &gt; Torna al disegno principale&lt;/i&gt; quando fatto</translation>
+        <translation type="vanished">Modifica blocco &apos;%1&apos;&lt;br&gt;Scegliete &lt;i&gt;Blocco &gt; Torna al disegno principale&lt;/i&gt; quando fatto</translation>
     </message>
 </context>
 <context>
@@ -679,24 +683,40 @@ Modificare un blocco sulla base di un riferimento di blocco scelto</translatorco
         <translation>Quote angolari</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>2 Line Angular Dimensions</source>
-        <translation>Quote angolari 2 linee</translation>
+        <translation type="vanished">Quote angolari 2 linee</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>2 Line Angular Dimension</source>
-        <translation>Quota angolare 2 linee</translation>
+        <translation type="vanished">Quota angolare 2 linee</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimensions</source>
+        <translation type="vanished">Quote angolari 3 punti</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimension</source>
+        <translation type="vanished">Quota angolare 3 punti</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>3 Point Angular Dimensions</source>
-        <translation>Quote angolari 3 punti</translation>
+        <source>Angular Dimensions (2 Line)</source>
+        <translation>Quote angolari (2 linee)</translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>3 Point Angular Dimension</source>
-        <translation>Quota angolare 3 punti</translation>
+        <source>Angular Dimension (2 Line)</source>
+        <translation>Quota angolare (2 linee)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Angular Dimensions (3 Point)</source>
+        <translation>Quote angolari (3 punti)</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Angular Dimension (3 Point)</source>
+        <translation>Quota angolare (3 punti)</translation>
     </message>
     <message>
         <location line="+2"/>

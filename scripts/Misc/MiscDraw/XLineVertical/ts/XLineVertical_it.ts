@@ -11,7 +11,7 @@
     <message>
         <location line="+4"/>
         <source>Draw vertical construction line</source>
-        <translation>Disegna linea di costruzione verticale</translation>
+        <translation>Tracciare la linea di costruzione verticale</translation>
     </message>
 </context>
 </TS>

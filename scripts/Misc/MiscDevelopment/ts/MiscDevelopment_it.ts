@@ -11,17 +11,16 @@
     <message>
         <location line="+9"/>
         <source>Misc Development Tools</source>
-        <translation>Strumenti di Sviluppo Vari</translation>
+        <translation>Strumenti di sviluppo vari</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show misc development tools</source>
-        <translation>Mostra gli strumenti di sviluppo</translation>
+        <translation type="vanished">Mostra gli strumenti di sviluppo varie</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+23"/>
         <source>De&amp;velopment</source>
-        <translation>S&amp;viluppo</translation>
+        <translation>&amp;Sviluppo</translation>
     </message>
 </context>
 </TS>

@@ -6,7 +6,7 @@
     <message>
         <location filename="../SplineToLine.js" line="+71"/>
         <source>Convert Straight Splines to Lines</source>
-        <translation>Converti Straight Splines in Linee</translation>
+        <translation>Converti spline diritte in linee</translation>
     </message>
 </context>
 </TS>

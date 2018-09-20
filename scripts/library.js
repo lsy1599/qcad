@@ -863,9 +863,9 @@ function entityTypeToString(type, plural) {
     case RS.EntityDimAngular:
         return plural ? qsTr("Angular Dimensions") : qsTr("Angular Dimension");
     case RS.EntityDimAngular2L:
-        return plural ? qsTr("2 Line Angular Dimensions") : qsTr("2 Line Angular Dimension");
+        return plural ? qsTr("Angular Dimensions (2 Line)") : qsTr("Angular Dimension (2 Line)");
     case RS.EntityDimAngular3P:
-        return plural ? qsTr("3 Point Angular Dimensions") : qsTr("3 Point Angular Dimension");
+        return plural ? qsTr("Angular Dimensions (3 Point)") : qsTr("Angular Dimension (3 Point)");
     case RS.EntityDimArcLength:
         return plural ? qsTr("Arc Dimension") : qsTr("Arc Dimension");
     case RS.EntityDimDiametric:
@@ -1337,6 +1337,21 @@ Array.prototype.remove = function(val, compareFunction) {
             break;
         }
     }
+};
+
+/**
+ * Removes all matches of the given value from the array.
+ * \param The value(s) to remove.
+ */
+Array.prototype.removeAll = function() {
+    var what, a = arguments, l = a.length, ax;
+    while (l && this.length) {
+        what = a[--l];
+        while ((ax = this.indexOf(what)) !== -1) {
+            this.splice(ax, 1);
+        }
+    }
+    return this;
 };
 
 /**

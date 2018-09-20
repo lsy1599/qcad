@@ -11,17 +11,16 @@
     <message>
         <location line="+9"/>
         <source>Misc Block Tools</source>
-        <translation>Varie strumenti di blocco</translation>
+        <translation>Strumenti muscolari per blocchi</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show misc block tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mostra strumenti muscolari per blocchi</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+22"/>
         <source>&amp;Block</source>
-        <translation>Blo&amp;cco</translation>
+        <translation>&amp;Blocco</translation>
     </message>
 </context>
 </TS>

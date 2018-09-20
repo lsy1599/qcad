@@ -11,17 +11,16 @@
     <message>
         <location line="+9"/>
         <source>Misc Selection Tools</source>
-        <translation>Strumenti di Selezione</translation>
+        <translation>Strumenti di selezione vari</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show misc selection tools</source>
-        <translation>Mostra strumenti di selezione</translation>
+        <translation type="vanished">Mostra strumenti di selezione vari</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+23"/>
         <source>&amp;Select</source>
-        <translation>&amp;Seleziona</translation>
+        <translation>&amp;Selezionare</translation>
     </message>
 </context>
 </TS>

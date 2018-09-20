@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1" language="tr">
 <context>
     <name>Layer</name>
     <message>
@@ -9,12 +9,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+5"/>
-        <source>Show layer tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+23"/>
+        <location line="+28"/>
         <source>&amp;Layer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -84,17 +79,17 @@
     <message>
         <location line="+9"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Lineweight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizgi kalınlığı:</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Linetype:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizgi tipi:</translation>
     </message>
 </context>
 </TS>

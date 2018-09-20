@@ -471,8 +471,8 @@ bool RTransaction::overwriteBlock(QSharedPointer<RBlock> block) {
  * Entities that are added with an invalid layer or block ID are placed
  * on the current layer / block.
  *
- * @param modifiedPropertyTypeId: Property ID that has changed if known 
- *      by caller, NULL otherwise.
+ * @param modifiedPropertyTypeId: Property IDs that have changed if known
+ *      by caller, empty set otherwise.
  */
 bool RTransaction::addObject(QSharedPointer<RObject> object,
     bool useCurrentAttributes,
@@ -851,7 +851,7 @@ bool RTransaction::addObject(QSharedPointer<RObject> object,
  * Adds the given property change for the given object to this transaction.
  */
 bool RTransaction::addPropertyChange(RObject::Id objectId, const RPropertyChange& propertyChange) {
-    if (!RS::compare(propertyChange.oldValue, propertyChange.newValue)) {
+    if (!RS::compare(propertyChange.oldValue, propertyChange.newValue, true)) {
         //propertyChanges.insert(objectId, propertyChange);
         QList<RPropertyChange> pc = propertyChanges.value(objectId);
         pc.append(propertyChange);

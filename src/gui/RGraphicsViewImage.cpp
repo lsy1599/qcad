@@ -328,6 +328,14 @@ void RGraphicsViewImage::updateImage() {
         gbPainter.end();
     }
 
+    // overlay (painted after / on top of preview and highlighting):
+//    if (!overlayDrawables.isEmpty()) {
+//        QPainter* painter = initPainter(graphicsBufferWithPreview, false);
+//        painter->setRenderHint(QPainter::Antialiasing);
+//        paintOverlay(painter);
+//        painter->end();
+//    }
+
     // snap label:
     if (hasFocus() || this == di->getLastKnownViewWithFocus()) {
         if (di->getClickMode()==RAction::PickCoordinate) {
@@ -367,14 +375,17 @@ void RGraphicsViewImage::paintReferencePoint(QPainter& painter, const RRefPoint&
     else if (pos.isSecondary()) {
         color = RSettings::getSecondaryReferencePointColor();
     }
+    else if (pos.isTertiary()) {
+        color = RSettings::getTertiaryReferencePointColor();
+    }
     else {
         color = RSettings::getReferencePointColor();
     }
     if (highlight) {
         color = RColor::getHighlighted(color, backgroundColor, 100);
     }
-    int size = RSettings::getIntValue("GraphicsView/ReferencePointSize", 10) * getDevicePixelRatio();
-    int shape = RSettings::getIntValue("GraphicsView/ReferencePointShape", 0);
+    int size = RSettings::getReferencePointSize() * getDevicePixelRatio();
+    int shape = RSettings::getReferencePointShape();
 
     if (shape==1) {
         // cross:
@@ -390,6 +401,7 @@ void RGraphicsViewImage::paintReferencePoint(QPainter& painter, const RRefPoint&
             painter.drawEllipse(pos.x - size/2, pos.y - size/2, size, size);
         }
         else {
+            painter.setBrush(color);
             painter.fillRect(QRect(pos.x - size/2, pos.y - size/2, size, size), color);
         }
 
@@ -681,6 +693,7 @@ void RGraphicsViewImage::paintDocument(const QRect& rect) {
         }
     }
 
+    // paint overlay:
     paintOverlay(painter);
 
     painter->end();

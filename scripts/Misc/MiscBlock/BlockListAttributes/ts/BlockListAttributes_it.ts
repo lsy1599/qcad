@@ -11,17 +11,17 @@
     <message>
         <location line="+6"/>
         <source>Block reference ID:</source>
-        <translation>ID Blocco di riferimento:</translation>
+        <translation>ID di riferimento blocco:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Block attribute:</source>
-        <translation>Caratteristica del blocco:</translation>
+        <translation>Attributo blocco:</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>&amp;List Block Attributes</source>
-        <translation>&amp;List Caratteristiche Blocco</translation>
+        <translation>&amp;Elenca attributi blocco</translation>
     </message>
 </context>
 </TS>

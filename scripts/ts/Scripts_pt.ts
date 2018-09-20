@@ -68,8 +68,12 @@
     </message>
     <message>
         <location line="+127"/>
+        <source>Editing block &quot;%1&quot;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
+        <translation>Edição bloco &quot;%1&quot;&lt;br&gt;Escolha &lt;i&gt;Bloco &gt; Retorne ao Desenho Principal&lt;/i&gt; quando feito</translation>
+    </message>
+    <message>
         <source>Editing block &apos;%1&apos;&lt;br&gt;Choose &lt;i&gt;Block &gt; Return to Main Drawing&lt;/i&gt; when done</source>
-        <translation>Edição bloco &apos;%1&apos;&lt;br&gt;Escolha &lt;i&gt;Bloco &gt; Retorne ao Desenho Principal&lt;/i&gt; quando feito</translation>
+        <translation type="vanished">Edição bloco &apos;%1&apos;&lt;br&gt;Escolha &lt;i&gt;Bloco &gt; Retorne ao Desenho Principal&lt;/i&gt; quando feito</translation>
     </message>
 </context>
 <context>
@@ -772,24 +776,40 @@ Desenhe dimensão angular</translatorcomment>
         <translation>Dimensão Angular</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>2 Line Angular Dimensions</source>
-        <translation>Dimensões angulares de 2 linhas</translation>
+        <translation type="vanished">Dimensões angulares de 2 linhas</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>2 Line Angular Dimension</source>
-        <translation>Dimensão angular de 2 linhas</translation>
+        <translation type="vanished">Dimensão angular de 2 linhas</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimensions</source>
+        <translation type="vanished">Dimensões angulares de 3 pontos</translation>
+    </message>
+    <message>
+        <source>3 Point Angular Dimension</source>
+        <translation type="vanished">Dimensão angular de 3 pontos</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>3 Point Angular Dimensions</source>
-        <translation>Dimensões angulares de 3 pontos</translation>
+        <source>Angular Dimensions (2 Line)</source>
+        <translation>Dimensões angulares (2 linhas)</translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>3 Point Angular Dimension</source>
-        <translation>Dimensão angular de 3 pontos</translation>
+        <source>Angular Dimension (2 Line)</source>
+        <translation>Dimensão angular (2 linhas)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Angular Dimensions (3 Point)</source>
+        <translation>Dimensões angulares (3 pontos)</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Angular Dimension (3 Point)</source>
+        <translation>Dimensão angular (3 pontos)</translation>
     </message>
     <message>
         <location line="+2"/>

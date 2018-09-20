@@ -6,7 +6,7 @@
     <message>
         <location filename="../Tutorials.js" line="+56"/>
         <source>Script &amp;Tutorials</source>
-        <translation>Script &amp;Tutorials</translation>
+        <translation>&amp;Tutorial script</translation>
     </message>
 </context>
 </TS>

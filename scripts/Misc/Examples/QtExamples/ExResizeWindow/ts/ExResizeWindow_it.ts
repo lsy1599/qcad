@@ -11,12 +11,12 @@
     <message>
         <location filename="../ExResizeWindow.ui" line="+14"/>
         <source>Enter Size</source>
-        <translation>Indica Dimensione</translation>
+        <translation>Inserisci la dimensione</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Size:</source>
-        <translation>Dimensioni:</translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <location line="+8"/>

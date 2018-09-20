@@ -26,46 +26,46 @@
     <message>
         <location line="+23"/>
         <source>Finger Width:</source>
-        <translation>Spessore linea:</translation>
+        <translation>Larghezza dito:</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Finger/Slot Ratio:</source>
-        <translation>Rapporto Linea/Slot:</translation>
+        <translation>Rapporto dito/slot:</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>&amp;Style:</source>
-        <translation>&amp;Style:</translation>
+        <translation>&amp;Stile:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Finger first</source>
-        <translation>Prima Linea</translation>
+        <translation>Prima il dito</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Slot first</source>
-        <translation>Primo slot</translation>
+        <translation>Prima lo slot</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Tenons</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenoni</translation>
     </message>
     <message>
         <source>Tennons</source>
-        <translation type="vanished">Tennons</translation>
+        <translation type="obsolete">Tennons</translation>
     </message>
     <message>
         <location filename="../LineBoxJointInit.js" line="+2"/>
         <source>Box &amp;Joint from 2 Points</source>
-        <translation>Scatola &amp;giunto da 2 punti</translation>
+        <translation>&amp;Montaggio del gambo dritto da 2 punti</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Draw Box Joint Fingers, Slots and Tennons</source>
-        <translation type="unfinished"></translation>
+        <translation>Montaggio del gambo dritto con dita, fessure o borchie</translation>
     </message>
 </context>
 </TS>

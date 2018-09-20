@@ -66,6 +66,9 @@ public:
 
     virtual QList<RPolyline> morph(const RPolyline& polyline, const RPolyline& target, int steps, RS::Easing easing = RS::Linear, bool zLinear = true, double customFactor = RNANDOUBLE) = 0;
     virtual RVector insertVertexAtDistance(RPolyline& polyline, double dist) = 0;
+
+    virtual bool simplify(RPolyline& polyline, double tolerance) = 0;
+    virtual QList<RPolyline> splitAtSegmentTypeChange(const RPolyline& polyline) = 0;
 };
 
 #endif

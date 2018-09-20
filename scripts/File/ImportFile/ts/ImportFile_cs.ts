@@ -4,14 +4,14 @@
 <context>
     <name>ImportFile</name>
     <message>
-        <location filename="../ImportFile.js" line="+68"/>
+        <location filename="../ImportFile.js" line="+73"/>
         <source>Error while importing file %1</source>
         <translation>Chyba při importu souboru %1</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+28"/>
         <source>No import filters have been found. Aborting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyly nalezeny žádné filtry pro import. Přerušení...</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -21,7 +21,7 @@
     <message>
         <location line="+3"/>
         <source>Import Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Import výkresu</translation>
     </message>
     <message>
         <location line="+9"/>

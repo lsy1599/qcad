@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1" language="tr">
 <context>
     <name>AutoSnap</name>
     <message>
         <location filename="../PreferencesPage.ui" line="+17"/>
         <source>Auto Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik Yapış</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Intersections</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesişme</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>End points</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitiş noktaları</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Middle points</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta noktalar</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Center points</source>
-        <translation type="unfinished"></translation>
+        <translation>Merkez noktalar</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Dik</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Tangential</source>
-        <translation type="unfinished"></translation>
+        <translation>Teğet</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Reference points</source>
-        <translation type="unfinished"></translation>
+        <translation>Referans noktaları</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -69,12 +69,12 @@
     <message>
         <location line="+0"/>
         <source>Auto Snap</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otomatik Yapış</translation>
     </message>
     <message>
         <location filename="../SnapAutoInit.js" line="+2"/>
         <source>&amp;Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oto</translation>
     </message>
 </context>
 </TS>

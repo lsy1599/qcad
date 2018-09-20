@@ -15,12 +15,12 @@
     </message>
     <message>
         <source>Incr:</source>
-        <translation type="vanished">Incr:</translation>
+        <translation type="obsolete">Incr:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Increment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Incremento:</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -30,7 +30,7 @@
     <message>
         <location line="+7"/>
         <source>Number of decimal digits</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di cifre decimali</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -40,7 +40,7 @@
     <message>
         <location line="+20"/>
         <source>Suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suffisso:</translation>
     </message>
     <message>
         <location filename="../CounterInit.js" line="+2"/>
@@ -50,7 +50,7 @@
     <message>
         <location line="+4"/>
         <source>Auto increment number</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto incrementa il numero</translation>
     </message>
 </context>
 </TS>

@@ -6,17 +6,17 @@
     <message>
         <location filename="../Cross.js" line="+56"/>
         <source>Select arc, circle, ellipse or elliptical arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona arco, cerchio, ellisse o arco ellittico</translation>
     </message>
     <message>
         <location filename="../CrossInit.js" line="+2"/>
         <source>Centerline Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Croce di mezzeria</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Draw centerline cross in arcs, circles or ellipses</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracciare una croce di mezzeria in archi, cerchi o ellissi</translation>
     </message>
 </context>
 <context>
@@ -24,17 +24,17 @@
     <message>
         <location filename="../Cross.ui" line="+17"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Estensione</translation>
     </message>
     <message>
         <location line="+5"/>

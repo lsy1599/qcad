@@ -10,17 +10,17 @@
     <message>
         <location filename="../ExDumpPolyline.js" line="+48"/>
         <source>Clockwise polyline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Polilinea in senso orario:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Counterclockwise polyline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Polilinea in senso antiorario:</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&amp;Output Polyline Vertices</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uscita dei vertici della polilinea</translation>
     </message>
 </context>
 </TS>

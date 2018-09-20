@@ -11,17 +11,16 @@
     <message>
         <location line="+9"/>
         <source>Misc Import / Export Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Varie strumenti di importazione / esportazione</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Show misc import / export tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mostra varie strumenti di importazione / esportazione</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+22"/>
         <source>&amp;Import/Export</source>
-        <translation>&amp;Import/Export</translation>
+        <translation>&amp;Importazione/Esportazione</translation>
     </message>
 </context>
 </TS>
